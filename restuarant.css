@@ -54,7 +54,7 @@ body {
 }
 
 .menu h2 {
-  color: white;
+  color: red;
 }
 .menu-items {
   display: flex;
